@@ -1,0 +1,37 @@
+OT-2 Serial
+	OT2CEP20181207A05
+
+OT-2 hostname:
+	c976f83.local
+
+OT-2 MAC addresses
+Wireless:
+	B8:27:EB:DD:F7:26
+Wired:
+	B8:27:EB:88:A2:73
+
+OT-2 network info:
+eduroam	- 10.81.179.116/22
+USB 	- 169.254.140.136/16
+
+Windows workstation network info:
+169.254.4.173
+255.255.0.0
+10.250.250.1
+	
+sudo nmap -sn 10.250.250.0/24
+cat /var/lib/misc/dnsmasq.leases
+
+NEW SD CARD *************
+
+OT-2 Serial
+	SD20181207A05
+
+OT-2 hostname:
+	8929b13.local
+
+OT-2 MAC addresses
+Wireless:
+	B8:27:EB:DD:F7:26
+Wired:
+	B8:27:EB:88:A2:73

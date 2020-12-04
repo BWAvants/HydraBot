@@ -1,0 +1,49 @@
+
+Animal Name
+Creation Date
+Max Population Density
+Total Animals
+Stereotype Image
+Colonies...
+	Plate
+	Well
+	Population
+	Last Feeding
+	Last Cleaning
+	History
+		Feedings...
+			Date/Time
+			Image
+		Cleanings...
+			Date/Time
+			Image
+		Locations...
+			Start Date
+			End Date
+			Plate
+			Well
+			Move/Merge/Split
+		Moves...
+			Date/Time
+			Origin Location
+			Destination Location
+			Population Before
+			Image Before
+			Population After
+			Image After
+		Merges...
+			Date/Time
+			Origin Location
+			Destination Location
+			Population Before
+			Image Before
+			Population After
+			Image After
+		Splits...
+			Date/Time
+			Destination Location
+			Population Before
+			Image Before
+			Population After
+			Image After
+Notes
